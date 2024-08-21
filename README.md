@@ -9,11 +9,6 @@ A Flutter-based game where players draw circles, and their score is determined b
 - **Developer Info Page**: Displays information about the developer with rainbow-colored wave text animation and a clickable Facebook link.
 - **Animations**: Smooth animations for drawing circles and text effects.
 
-## Screenshots
-
-![Landing Page](path_to_screenshot_of_landing_page.png)
-![Game Page](path_to_screenshot_of_game_page.png)
-![Developer Info Page](path_to_screenshot_of_developer_info_page.png)
 
 ## Installation
 
